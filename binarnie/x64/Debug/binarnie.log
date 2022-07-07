@@ -1,0 +1,6 @@
+﻿  binarnie.cpp
+F:\Программирование\binarnie\binarnie\binarnie.cpp(281): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+FileTracker : error FTK1006: не удалось внести запись в файл журнала отслеживания файлов: F:\Программирование\binarnie\binarnie\x64\Debug\binarnie.tlog\CL.read.1.tlog. Недостаточно места на диске.
+  
+  
+  
